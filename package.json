@@ -1,5 +1,5 @@
 {
-  "name": "fullblog",
+  "name": "mini-blog",
   "version": "1.0.0",
   "description": "Sebuah boilerplate aplikasi blog mini berisikan artikel-artikel sementara, dengan Node.js",
   "main": "index.js",
